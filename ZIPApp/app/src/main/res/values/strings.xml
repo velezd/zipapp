@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZIPApp</string>
+    <string name="wifi_disabled">WiFi is disabled</string>
+    <string name="searching">Searching for devices</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="saturation">Saturation</string>
+    <string name="brightness">Brightness</string>
+    <string name="bri_over">Brightness override</string>
+    <string name="dev_name">Name</string>
+    <string name="wh_balance">White balance</string>
+    <string name="btn_set">SET</string>
+    <string name="initializing">Initializing</string>
+</resources>
